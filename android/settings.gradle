@@ -1,0 +1,3 @@
+rootProject.name = 'golf_4032'
+
+include ':app'
